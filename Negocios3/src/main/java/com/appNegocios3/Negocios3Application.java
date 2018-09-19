@@ -47,6 +47,7 @@ public class Negocios3Application implements CommandLineRunner{
 
 		System.out.println("Ejecutando Truncate a empleado2");
 		repTrabajo.truncateTabla("empleado2");
+		System.out.println("hoal");
 		
 		
 		
